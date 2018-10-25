@@ -1,0 +1,31 @@
+
+.mainline
+{
+    /*color:  rgb(235, 242, 250);*/
+    color: white;
+    padding-top: 15%;
+}
+.mainline2
+{
+    /*color: rgb(235, 242, 250);*/
+    color: white;
+    padding: 15%;
+}
+
+
+video
+{
+    position: fixed;
+    min-width: 100%;
+    z-index: 1;
+    margin-top: 10% ;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.current {
+    padding: 5%;
+    z-index: 4;
+    position: relative;
+    width: 100%;
+}
